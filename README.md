@@ -1,3 +1,3 @@
 # education
 
-my text1
+my text
