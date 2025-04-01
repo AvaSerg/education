@@ -1,3 +1,3 @@
 # education
 
-my text
+This repositori I change and pull
